@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+matplotlib
+docxtpl
+geopy
+python-docx
+streamlit-js-eval

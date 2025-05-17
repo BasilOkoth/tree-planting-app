@@ -1,0 +1,6 @@
+Tree ID,Species,Student Name,Date Planted,Tree Stage,RCD,DBH,Latitude,Longitude,CO2 Sequestered (kg),School,Status,Height (m),RCD (cm),DBH (cm)
+MIYUGA-001,Acacia,John Doe,2023-01-15,Young (RCD),5.2,,0.0236,37.9062,12.5,Miyuga,Alive,1.8,,
+MIYUGA-002,Mango,Jane Smith,2023-02-20,Mature (DBH),,15.0,0.0237,37.9063,45.2,Miyuga,Alive,3.5,,
+009,Acacia,basil,2025-05-16,Mature (DBH),,0.0,0.0236,37.9062,0.0,miyuga,Alive,0.0,,
+MIY001,Mango,basil,2025-05-16,Young (RCD),,,-0.0235836887421008,37.9063596285545,0.0,Miyuga primary school,Alive,0.1,0.1,
+MIY003,Eucalyptus,basil,2025-05-16,Young (RCD),,,-0.023473072451638766,37.90630406265325,0.0,Miyuga,Alive,0.5,0.1,
