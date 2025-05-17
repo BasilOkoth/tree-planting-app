@@ -7,3 +7,4 @@ docxtpl
 geopy
 python-docx
 streamlit-js-eval
+plotly
